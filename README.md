@@ -1,16 +1,11 @@
 # Bike_Rentals
-Final assignment for GB705: Statistics & Programming for Business Analytics at UW-Madison.
+This is the final assignment for GB705: Statistics & Programming for Business Analytics at UW-Madison. 
 
-This assignment is representing in report format, including:
+This assignment was presented in a report format and should include the following:
 
-  - Read and preview the dataset
-  
-  - Add new columns to the dataset
-  
-  - Generate a pivot table
-  
-  - Visualize the answers
-  
-  - Create linear regression model
-  
-  - Build prediction model (split to train & test dataset) 
+- Reading and previewing the dataset
+- Adding new columns to the dataset
+- Generating a pivot table
+- Visualizing the results
+- Creating a linear regression model
+- Building a prediction model by splitting the dataset into train and test sets.
